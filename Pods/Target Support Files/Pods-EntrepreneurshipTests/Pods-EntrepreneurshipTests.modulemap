@@ -1,0 +1,6 @@
+framework module Pods_EntrepreneurshipTests {
+  umbrella header "Pods-EntrepreneurshipTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
